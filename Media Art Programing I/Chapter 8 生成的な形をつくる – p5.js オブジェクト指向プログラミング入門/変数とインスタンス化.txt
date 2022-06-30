@@ -1,0 +1,3 @@
+let variable = 0; //変数を初期化
+
+let object = new ClassName(); //インスタンス化
