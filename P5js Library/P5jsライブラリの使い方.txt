@@ -1,0 +1,13 @@
+p5.particle > パーティクル
+
+ml5.js > マシンラーニング（人工知能）
+
+
+※ コアライブラリーはindex.htmlにjsdelivrからコピーしたURLをライブラリーに記載する
+
+	<head>
+   	 	<script src="http://cdn.jsdelivr.net/npm/p5@1.4.0/lib/p5.js"></script>
+    		<script src="http://cdn.jsdelivr.net/npm/p5@1.4.1/lib/addons/p5.sound.js"></script>
+		<script src="http://cdn.jsdelivr.net/npm/p5@1.4.1/lib/addons/p5.sound.min.js"></script>
+    		<script src="sketch.js"></script>
+	</head>
